@@ -9,3 +9,16 @@
   color: coral;
   font-style: italic;
 }
+
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+  }
+}
+
+.column {
+  font-size: 20px;
+  font-family: fantasy;
+  font-weight: bold;
+}
