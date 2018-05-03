@@ -8,6 +8,9 @@
 .column {
   color: coral;
   font-style: italic;
+  float: left;
+  padding: 10px;
+  width: 30%;
 }
 
 
